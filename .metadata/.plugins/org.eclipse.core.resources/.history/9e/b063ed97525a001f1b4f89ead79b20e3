@@ -1,5 +1,0 @@
-package com.prueba.producto.service;
-
-public interface IProductoService {
-
-}

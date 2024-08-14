@@ -1,8 +1,0 @@
-package com.prueba.detalle.entity;
-
-public class Detalle {
-	
-	
-	private Producto producto;
-
-}
