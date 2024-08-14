@@ -1,0 +1,8 @@
+package com.prueba.detalle.clients;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient("servicio-productos")
+public interface DetalleFeignClient {
+
+}

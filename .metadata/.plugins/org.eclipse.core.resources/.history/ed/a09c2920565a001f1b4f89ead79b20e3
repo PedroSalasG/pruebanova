@@ -1,0 +1,5 @@
+package com.prueba.detalle.service;
+
+public interface IDetalleService {
+
+}

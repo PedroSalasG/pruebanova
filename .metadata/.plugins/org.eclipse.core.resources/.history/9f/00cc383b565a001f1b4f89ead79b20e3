@@ -1,0 +1,21 @@
+package com.prueba.detalle.service;
+
+import java.util.List;
+
+import com.prueba.detalle.entity.Detalle;
+
+public class DetalleServiceImpl implements IDetalleService {
+
+	@Override
+	public List<Detalle> listarDetalle() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Detalle findById() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

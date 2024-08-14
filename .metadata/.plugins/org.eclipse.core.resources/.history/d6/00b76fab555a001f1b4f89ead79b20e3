@@ -1,0 +1,5 @@
+package com.prueba.detalle.clients;
+
+public interface DetalleFeignClient {
+
+}
